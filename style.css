@@ -1,0 +1,36 @@
+html{
+  background-color: rgba(16, 110, 36, 0.801);
+  
+}
+a:link{
+  color: rgb(238, 140, 123);
+  padding: 8px
+}
+a:visited{
+  color: rgb(158, 209, 243);
+}
+a:hover{
+  color: rgb(117, 245, 170);
+  border: 4px double rgb(206, 156, 230)
+}
+a.current{
+  color: rgb(202, 201, 201);
+}
+a:active{
+  color: rgb(219, 118, 151);
+}
+h1{
+  background-color: rgb(199, 241, 205);
+  color: rgb(41, 73, 116)
+}
+h2{
+  background-color: rgb(199, 241, 205);
+  color: rgb(41, 73, 116)
+}
+p{
+  background-color: rgb(199, 241, 205);
+  color: rgb(41, 73, 116)
+}
+nav{
+  color: rgb(4, 59, 2) 
+}
